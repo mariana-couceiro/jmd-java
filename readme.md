@@ -1,5 +1,5 @@
 #Lista comidas
 - atum
 - salada
-- mousse
+- mousse de chocolate
 
